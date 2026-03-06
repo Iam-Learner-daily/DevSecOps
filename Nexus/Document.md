@@ -7,9 +7,9 @@ Nexus is a powerful repository manager used for storing, managing, and retrievin
 ## ⚙️ 1. Nexus in Our Project
 
 # Steps Covered in the Project:
-### 1. Nexus Installation and Setup:
-       Installed on an AWS EC2 instance (e.g., Ubuntu or Red Hat).
-       Configured the Nexus server for hosting and managing artifacts.
+1. Nexus Installation and Setup:
+    Installed on an AWS EC2 instance (e.g., Ubuntu or Red Hat).
+    Configured the Nexus server for hosting and managing artifacts.
 
 ##  ⚙️ How to Access Artifacts in Nexus
     • Navigate to the Nexus Dashboard:
