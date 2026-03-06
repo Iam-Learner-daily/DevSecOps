@@ -16,6 +16,9 @@ Nexus is a powerful repository manager used for storing, managing, and retrievin
 ### ⚙️ How to Access Artifacts in Nexus
 
 Navigate to the Nexus Dashboard:
+
 •Access the Nexus web interface at http://<your-nexus-ip>:8081.
+
 Retrieve Artifacts:
+
 •Use wget or curl commands to download artifacts directly from Nexus to your server or local machine.
